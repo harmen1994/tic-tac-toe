@@ -1,0 +1,6 @@
+# IntellIJ
+.idea/
+
+# Default ignores for Svelte
+node_modules/
+public/build/
