@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { TicTacToe } from './game/ticTacToe';
+  import { TicTacToe } from '../game/ticTacToe';
 
   // Initial simple board with one X and one O for display
   const initialBoard = [
